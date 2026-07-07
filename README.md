@@ -1,3 +1,5 @@
+docker pull ruvnet/wifi-densepose:latest
+docker run -p 3000:3000 ruvnet/wifi-densepose:latest
 # π RuView
 
 <p align="center">
